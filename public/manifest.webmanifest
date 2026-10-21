@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "Dhaka Form",
+  "short_name": "Dhaka Form",
+  "description": "Thoughtful things for the everyday.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f7f2",
+  "theme_color": "#f8f7f2",
+  "lang": "en",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
